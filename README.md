@@ -30,5 +30,9 @@ Faikin wired bottom:
 S403 plugged in:
 ![S403-plugged](https://github.com/user-attachments/assets/94cbdaf4-3143-419a-9419-987693f2bd0b)
 
-Alternative:
+Alternative using precrimped connectors:
 ![JST-HX precrimped](https://github.com/user-attachments/assets/fbc6ff7b-85aa-40d1-ba35-47ae684332fe)
+
+Search Amazon for: XH 2.54mm Connector Kit with pre-Crimped Cable Wire 2/3/4/5/6/7/8/9/10 Pin Housing JST Adapter Cable Compatible with JST-XH Connector
+https://www.amazon.com/Connector-pre-crimped-Housing-Adapter-Compatible/dp/B08G18PWQ6/ref=sr_1_4?crid=3R1FZ4LW0ALL6&dib=eyJ2IjoiMSJ9.PZxAWIJ4RaQWYQu380xy5OBVt3OBi-YQt4Jlq38N6b8UevC2vwD7p4V2hLVHm00B2xcV-wKnlIMbSjP-56HfTuKhuVUQ3XieeXb0fvGJUZO9B_vdP0mgBbnz1tS0mbbgrJiQvB0XeX0muX8rvE5q1ljI3DwPAwq__dkeCNGL5M2A8lzlccfyr5KiLERjs9vp7IoZb_V1B6fa266tmqbjU7AJaeKjsQBfb5O4suHJV5Y.DpIHVEwIM_thTH0zN0A5VoepmvvMFD8Ti0daBNtpRbo&dib_tag=se&keywords=JST-XH%2B2%2F3%2F4%2F5%2F6%2Bkit&qid=1756558237&sprefix=jst-xh%2B2%2F3%2F4%2F5%2F6%2Bkit%2Caps%2C93&sr=8-4&th=1
+
