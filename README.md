@@ -1,3 +1,5 @@
+More detailed collection on how to wire Faikin modules into Daikin ductless indoor units.
+
 Direct connection on S403 using:
 
 Faikin - S403
