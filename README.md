@@ -18,10 +18,10 @@ S403 Pinout:
 ![S403-pinout](https://github.com/user-attachments/assets/38d13c8b-856e-48b7-aa29-48f944474b79)
 
 JST-HX connector with cut ribbon:
-!![connetor-cut](https://github.com/user-attachments/assets/b7f01ed1-28c5-447f-b020-8308e32dc31b)
+![connetor-cut](https://github.com/user-attachments/assets/b7f01ed1-28c5-447f-b020-8308e32dc31b)
 
 Dupont cable to HST-HX:
-[connector-wired](https://github.com/user-attachments/assets/8d0774bd-dcde-48ac-9d6f-63cbb79f0fcb)
+![connector-wired](https://github.com/user-attachments/assets/8d0774bd-dcde-48ac-9d6f-63cbb79f0fcb)
 
 Faikin wired:
 ![faikin-wired](https://github.com/user-attachments/assets/390e13e5-eeed-4032-b80d-01e580afbeeb)
